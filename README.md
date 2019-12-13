@@ -12,17 +12,19 @@ The second reason why this project is built is that receiving analog TV programs
 
 
 # FAQS
+## Why the OpenTV does not provide IPTV source file?
+The OpenTV is merely a player for playing the content offered by your content providers. For this reason, based on copyright laws or codes, the OpenTV software would not provide any channel source files or contents. From your side, you also have the obligatory to obey the laws or codes in your areas or countries.
 
 
 # Troubleshooting
 
 # Screenshots
 
-<div align=center>![screenshot1](screenshots/screenshot1.jpg)
+![screenshot1](screenshots/screenshot1.jpg)
 
-<div align=center>![screenshot2](screenshots/screenshot2.jpg)
+![screenshot2](screenshots/screenshot2.jpg)
 
-<div align=center>![screenshot3](screenshots/screenshot3.jpg)
+![screenshot3](screenshots/screenshot3.jpg)
 
-<div align=center>![screenshot4](screenshots/screenshot4.jpg)
+![screenshot4](screenshots/screenshot4.jpg)
 
