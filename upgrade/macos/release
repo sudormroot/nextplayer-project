@@ -4,5 +4,8 @@ date=20191225
 app=TheNewPlayer Free
 path=TheNewPlayerFree_macOS_20191225_v1_3_6_build_d0f639c
 bundle=TheNewPlayerFree_macOS_20191225_v1_3_6_build_d0f639c.tgz
-size=39074304
-md5=b27c669ba6e2e08fca72109c0da35ed2
+bundle_size=39074304
+bundle_md5=b27c669ba6e2e08fca72109c0da35ed2
+changelog_md5=d03f0132220b4232e27c5d1717c7baee
+changelog_size=83
+
