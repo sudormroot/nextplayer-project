@@ -1,10 +1,6 @@
 Changelog (English):
 
-1. Auto online upgrade is ready in this version.
-2. Preference panel is modified.
-3. Stability is fixed.
+1. program dock auto hide is fixed.
 
 Changelog (Chinese):
-1. 自动在线升级已经可以用了。
-2. 偏好设置进行了修改和完善。
-3. 稳定性有所提升。
+1. 修正了节目导航自动隐藏bug
