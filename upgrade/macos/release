@@ -1,9 +1,10 @@
-version=1.3.10
+version=1.3.11
 date=20191231
 app=TheNewPlayerFree.app
-path=TheNewPlayerFree_macos_20191231_v1_3_10_build_206e33f
-bundle=TheNewPlayerFree_macos_20191231_v1_3_10_build_206e33f.tgz
-bundle_size=17473160
-bundle_md5=58e7578b1c4281fd9fecdf55d59f03c4
-changelog_md5=45acf05fdf00cd838a90327a8912bcb6
-changelog_size=120
+build=2a6b516
+path=TheNewPlayerFree_macos_20191231_v1_3_11_build_2a6b516
+bundle=TheNewPlayerFree_macos_20191231_v1_3_11_build_2a6b516.tgz
+bundle_size=17474868
+bundle_md5=15451393f64b1fd04d77e6d6bb963935
+changelog_md5=f39ddf81979bbf87cfd58267d2e75117
+changelog_size=100
