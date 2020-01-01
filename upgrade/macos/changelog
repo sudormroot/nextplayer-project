@@ -1,10 +1,6 @@
 Changelog (English):
 
-1. window jump is fixed.
+1. bug fix in upgrade.
 
 Changelog (Chinese):
-1. 主窗口跳动被修复。
-
-百度云下载地址：
-链接:https://pan.baidu.com/s/1mkY-hl9d-2rSw7Gp9AQ2Ew 
-提取码:pqke 
+1. 不能正确升级的bug fix
