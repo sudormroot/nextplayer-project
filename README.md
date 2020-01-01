@@ -32,16 +32,17 @@ The OpenTV is merely a player for playing the content offered by your content pr
 
 # Screenshots
 
-![screenshot1](screenshots/screenshot1.png)
+![screenshot1](screenshots/screenshot1.jpg)
 
-![screenshot2](screenshots/screenshot2.png)
+![screenshot2](screenshots/screenshot2.jpg)
 
-![screenshot3](screenshots/screenshot3.png)
+![screenshot3](screenshots/screenshot3.jpg)
 
-![screenshot4](screenshots/screenshot4.png)
+![screenshot4](screenshots/screenshot4.jpg)
 
-![screenshot4](screenshots/screenshot5.png)
+![screenshot4](screenshots/screenshot5.jpg)
 
-![screenshot4](screenshots/screenshot6.png)
+![screenshot4](screenshots/screenshot6.jpg)
 
-![screenshot4](screenshots/screenshot7.png)
+![screenshot4](screenshots/screenshot7.jpg)
+
