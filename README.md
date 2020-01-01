@@ -1,7 +1,7 @@
 ![Image text](logo.png)
 
 # Home Page
-[Homepage](https://sudormroot.github.io/OpenTV_builds/)
+[Homepage](https://sudormroot.github.io/TheNewPlayer_builds/)
 
 
 # Motivations
@@ -16,7 +16,19 @@ The second reason why this project is built is that receiving analog TV programs
 The OpenTV is merely a player for playing the content offered by your content providers. For this reason, based on copyright laws or codes, the OpenTV software would not provide any channel source files or contents. From your side, you also have the obligatory to obey the laws or codes in your areas or countries.
 
 
+## How to setup the IPTV channel list?
+1. Download IPTV source txt or m3u or m3u8 files to local.
+2. Drag the txt or m3u or m3u8 channel list file to the player's window directly.
+3. The player will automatically recognize the channel file format and build the IPTV channel.
+
+
 # Troubleshooting
+
+## Remove all configuration files, and navigation channel lists.
+1. cd ~/.config/thenewplayer
+2. rm -rf \*.txt upgrade objectstate playstate
+3. Reboot the player.
+
 
 # Screenshots
 
@@ -28,3 +40,8 @@ The OpenTV is merely a player for playing the content offered by your content pr
 
 ![screenshot4](screenshots/screenshot4.jpg)
 
+![screenshot4](screenshots/screenshot5.jpg)
+
+![screenshot4](screenshots/screenshot6.jpg)
+
+![screenshot4](screenshots/screenshot7.jpg)
