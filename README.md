@@ -48,3 +48,6 @@ The OpenTV is merely a player for playing the content offered by your content pr
 
 ![screenshot4](screenshots/screenshot7.jpg)
 
+![screenshot4](screenshots/screenshot8.jpg)
+
+![screenshot4](screenshots/screenshot9.jpg)
