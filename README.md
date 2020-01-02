@@ -3,6 +3,8 @@
 # Home Page
 [Homepage](https://sudormroot.github.io/TheNewPlayer_builds/)
 
+email: thenewplayermail@gmail.com
+
 
 # Motivations
 
