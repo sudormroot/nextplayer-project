@@ -1,12 +1,12 @@
-version=1.4.15
+version=1.4.16
 date=20200128
 minimum_os_version=10.12
 app=TheNewPlayerFree.app
 build=c88ef96
-path=releases/macos/TheNewPlayerFree_macos_20200128_v1_4_15_build_c88ef96
-bundle=TheNewPlayerFree_macos_20200128_v1_4_15_build_c88ef96.tgz
-bundle_size=22852910
-bundle_md5=18e13a5baf5247b54475722ade7855dd
+path=releases/macos/TheNewPlayerFree_macos_20200128_v1_4_16_build_c88ef96
+bundle=TheNewPlayerFree_macos_20200128_v1_4_16_build_c88ef96.tgz
+bundle_size=22852937
+bundle_md5=8009394fce921a40aac0ef5ec751419f
 changelog_md5=59b4030fcc9183a86a4e82f6593e1197
 changelog_size=177
 changelog=changelog
