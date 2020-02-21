@@ -1,3 +1,4 @@
 Changelog (English):
-1. Sound playing back is improved.
+1. Hardware acceleration now is supported! The CPU usage will be cut down
+	largely.
 
