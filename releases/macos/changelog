@@ -2,3 +2,4 @@ Changelog (English):
 1. Hardware acceleration now is supported! The CPU usage will be cut down
 	largely.
 2. Audio play is improved.
+3. Audio output device auto change.
