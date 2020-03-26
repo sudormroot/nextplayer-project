@@ -12,6 +12,17 @@ Watching IPTV programs is hard in macOS platform, since most existing applicatio
 
 The second reason why this project is built is that receiving analog TV programs with GNU SDR (Software-defined Radio) is fascinating, if I can build a software to do so, that would be a wonderful experience, in a sense, we can reflect our past again - the pre-ditigal times where we were living ever.
 
+# Install via brew
+
+Ref: https://brew.sh
+
+brew search thenewplayerfree
+
+## Install
+brew cask install thenewplayerfree
+
+## Uninstall
+brew cask uninstall thenewplayerfree
 
 # FAQS
 ## Why the OpenTV does not provide IPTV source file?
