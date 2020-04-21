@@ -1,5 +1,8 @@
 ![Image text](logo.png)
 
+# Community on gitter (chat here)
+[https://gitter.im/thenewplayerfree](https://gitter.im/thenewplayerfree)
+
 # Home Page
 [https://sudormroot.github.io/TheNewPlayer_builds/](https://sudormroot.github.io/TheNewPlayer_builds/)
 
