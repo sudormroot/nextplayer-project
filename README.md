@@ -3,7 +3,7 @@
 
 
 # Home Page
-[https://sudormroot.github.io/TheNewPlayer_builds/](https://sudormroot.github.io/TheNewPlayer_builds/)
+[https://sudormroot.github.io/thenewplayer_builds/](https://sudormroot.github.io/thenewplayer_builds/)
 
 email: sudormroot@163.com
 
