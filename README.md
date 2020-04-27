@@ -20,8 +20,9 @@ Ref: https://brew.sh
 
 brew search thenewplayerfree
 
-## Install
+## Install from brew (not working currently)
 brew cask install thenewplayerfree
+* according to the policies of brew, the stars need to be above 50 at least, otherwise the project will not be accepted to be in the repo of brew cask. Once the stars are 50, I'll add thenewplayerfree to brew again.
 
 ## Uninstall
 brew cask uninstall thenewplayerfree
