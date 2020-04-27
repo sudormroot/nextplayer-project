@@ -5,7 +5,7 @@
 # Home Page
 [https://sudormroot.github.io/TheNewPlayer_builds/](https://sudormroot.github.io/TheNewPlayer_builds/)
 
-email: thenewplayermail@gmail.com
+email: sudormroot@163.com
 
 
 # Motivations
