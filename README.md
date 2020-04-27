@@ -17,18 +17,18 @@ The second reason why this project is built is that receiving analog TV programs
 # Download
 https://github.com/sudormroot/thenewplayer_builds/tree/master/releases/macos
 
-# ~~Install via brew
+# ~~Install via brew~~
 
 Ref: https://brew.sh
 
-~~brew search thenewplayerfree
+~~brew search thenewplayerfree~~
 
 ## ~~Install from brew (not working currently)
 brew cask install thenewplayerfree
-* according to the policies of brew, the stars need to be above 50 at least, otherwise the project will not be accepted to be in the repo of brew cask. Once the stars are 50, I'll add thenewplayerfree to brew again.
+* according to the policies of brew, the stars need to be above 50 at least, otherwise the project will not be accepted to be in the repo of brew cask. Once the stars are 50, I'll add thenewplayerfree to brew again.~~
 
-## ~~Uninstall
-~~brew cask uninstall thenewplayerfree
+## ~~Uninstall~~
+~~brew cask uninstall thenewplayerfree~~
 
 # FAQS
 ## Why the OpenTV does not provide IPTV source file?
