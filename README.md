@@ -21,14 +21,14 @@ https://github.com/sudormroot/thenewplayer_builds/tree/master/releases/macos
 
 Ref: https://brew.sh
 
-~~brew search thenewplayerfree~~
+~~brew search thenewplayerfree
 
-## Install from brew (not working currently)
+## ~~Install from brew (not working currently)
 brew cask install thenewplayerfree
 * according to the policies of brew, the stars need to be above 50 at least, otherwise the project will not be accepted to be in the repo of brew cask. Once the stars are 50, I'll add thenewplayerfree to brew again.
 
-## Uninstall
-brew cask uninstall thenewplayerfree
+## ~~Uninstall
+~~brew cask uninstall thenewplayerfree
 
 # FAQS
 ## Why the OpenTV does not provide IPTV source file?
@@ -70,3 +70,5 @@ The OpenTV is merely a player for playing the content offered by your content pr
 ![screenshot4](screenshots/screenshot8.jpg)
 
 ![screenshot4](screenshots/screenshot9.jpg)
+
+
