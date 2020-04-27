@@ -14,6 +14,12 @@ Watching IPTV programs is hard in macOS platform, since most existing applicatio
 
 The second reason why this project is built is that receiving analog TV programs with GNU SDR (Software-defined Radio) is fascinating, if I can build a software to do so, that would be a wonderful experience, in a sense, we can reflect our past again - the pre-ditigal times where we were living ever.
 
+# Features
+* Hardware decoding, compared with mpv/VLC, the CPU usage is only 1/2 of them.
+* Support IPTV program list files ending with m3u, m3u8 and txt
+* Support 6 audio channels while mpv/VLC can not work correctly.
+
+
 # Download
 https://github.com/sudormroot/thenewplayer_builds/tree/master/releases/macos
 
