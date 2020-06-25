@@ -5,6 +5,20 @@
 # Home Page
 [https://sudormroot.github.io/thenewplayer_builds/](https://sudormroot.github.io/thenewplayer_builds/)
 
+# Supported platforms
+
+Linux Ubuntu, Deepin and macOS
+
+# Linux
+For Linux deepin/ubuntu
+
+install
+tar xzvf thenewplayerfree.xxx.tgz
+dpkg -i thenewplayerfree.xxx.deb
+
+Fix Chinese language problem in Linux:
+sudo ln -s /usr/local/thenewplayerfree/languages /usr/local/thenewplayerfree/bin/languages
+
 
 
 # Motivations
