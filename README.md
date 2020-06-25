@@ -7,7 +7,14 @@
 
 # Supported platforms
 
-Linux Ubuntu, Deepin and macOS
+Linux and macOS
+
+# Download
+## macOS:
+https://github.com/sudormroot/thenewplayer_builds/releases/tag/tnpfree_v1_6_1_macos
+## Linux:
+https://github.com/sudormroot/thenewplayer_builds/releases/tag/tnpfree_v1_6_1_amd64_linux
+
 
 # Linux
 For Linux deepin/ubuntu
@@ -19,6 +26,8 @@ dpkg -i thenewplayerfree.xxx.deb
 Fix Chinese language problem in Linux:
 sudo ln -s /usr/local/thenewplayerfree/languages /usr/local/thenewplayerfree/bin/languages
 
+No sound problem:
+Please do a google search with 'linux qt no sound' and fix the problem by installing extra libraries.
 
 
 # Motivations
@@ -33,8 +42,6 @@ The second reason why this project is built is that receiving analog TV programs
 * Support 6 audio channels while mpv/VLC can not work correctly.
 
 
-# Download
-https://github.com/sudormroot/thenewplayer_builds/tree/master/releases/macos
 
 # ~~Install via brew~~
 
