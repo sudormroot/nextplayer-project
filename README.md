@@ -11,9 +11,9 @@ Linux and macOS
 
 # Download
 ## macOS:
-https://github.com/sudormroot/thenewplayer_builds/releases/tag/tnpfree_v1_6_1_macos
+[https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
 ## Linux:
-https://github.com/sudormroot/thenewplayer_builds/releases/tag/tnpfree_v1_6_1_amd64_linux
+[https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
 
 
 # Linux
