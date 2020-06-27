@@ -74,6 +74,9 @@ The OpenTV is merely a player for playing the content offered by your content pr
 2. rm -rf \*.txt upgrade objectstate playstate
 3. Reboot the player.
 
+## No sound in Linux
+Please go to preferences->audio, choose the audio output device to 'pulse' for example -- you might need related libraries as well. This might fix the problem.
+
 
 # Screenshots
 
