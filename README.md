@@ -5,26 +5,31 @@
 # Home Page
 [https://sudormroot.github.io/thenewplayer_builds/](https://sudormroot.github.io/thenewplayer_builds/)
 
+
 # Supported platforms
 
-Linux and macOS
+macOS, FreeBSD, OpenBSD and Linux
 
 # Download
 ## macOS:
 [https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
+
 ## Linux:
 [https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
 
+## FreeBSD:
+[https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
+
+
+# FreeBSD
+sudo pkg install thenewplayerfree-bin.freebsd.xxx.txz
 
 # Linux
 For Linux deepin/ubuntu
 
 install
-tar xzvf thenewplayerfree.xxx.tgz
-dpkg -i thenewplayerfree.xxx.deb
+dpkg -i thenewplayerfree-bin.linux.xxx.deb
 
-Fix Chinese language problem in Linux:
-sudo ln -s /usr/local/thenewplayerfree/languages /usr/local/thenewplayerfree/bin/languages
 
 No sound problem:
 Please do a google search with 'linux qt no sound' and fix the problem by installing extra libraries.
