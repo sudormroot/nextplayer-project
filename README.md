@@ -106,3 +106,18 @@ Please go to preferences->audio, choose the audio output device to 'pulse' for e
 ![screenshot9](screenshots/screenshot9.jpg)
 
 
+![screenshot10](screenshots/screenshot10.jpg)
+
+![screenshot11](screenshots/screenshot11.jpg)
+
+![screenshot12](screenshots/screenshot12.jpg)
+
+![screenshot13](screenshots/screenshot13.jpg)
+
+![screenshot14](screenshots/screenshot14.jpg)
+
+![screenshot15](screenshots/screenshot15.jpg)
+
+![screenshot16](screenshots/screenshot16.jpg)
+
+
