@@ -22,13 +22,11 @@ macOS, FreeBSD, OpenBSD and Linux
 
 # Installation
 ## FreeBSD
-sudo pkg install thenewplayerfree-bin.freebsd.xxx.txz
+$ sudo pkg install thenewplayerfree-bin.freebsd.xxx.txz
 
-## Linux
-For Linux deepin/ubuntu
+## Linux 
+$ dpkg -i nextplayer-bin.linux.xxx.deb
 
-install
-dpkg -i thenewplayerfree-bin.linux.xxx.deb
 
 
 No sound problem:
