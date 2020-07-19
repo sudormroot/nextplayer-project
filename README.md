@@ -20,11 +20,11 @@ macOS, FreeBSD, OpenBSD and Linux
 ## FreeBSD:
 [https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
 
-
-# FreeBSD
+# Installation
+## FreeBSD
 sudo pkg install thenewplayerfree-bin.freebsd.xxx.txz
 
-# Linux
+## Linux
 For Linux deepin/ubuntu
 
 install
@@ -34,6 +34,12 @@ dpkg -i thenewplayerfree-bin.linux.xxx.deb
 No sound problem:
 Please do a google search with 'linux qt no sound' and fix the problem by installing extra libraries.
 
+## macOS
+Just drag the uncompressed app into anywhere of your macOS, such as the Application folder.
+
+
+# Usage
+All operation logic in this app is dragging, which means you can drag the local video files or program list (txt/m3u/m3u8) to the main window (not the program navigation window), and you can drag program item to favorite of the navigation window.
 
 # Motivations
 
@@ -45,21 +51,6 @@ The second reason why this project is built is that receiving analog TV programs
 * Hardware decoding, compared with mpv/VLC, the CPU usage is only 1/2 of them.
 * Support IPTV program list files ending with m3u, m3u8 and txt
 * Support 6 audio channels while mpv/VLC can not work correctly.
-
-
-
-# ~~Install via brew~~
-
-Ref: https://brew.sh
-
-~~brew search thenewplayerfree~~
-
-## ~~Install from brew (not working currently)
-brew cask install thenewplayerfree
-* according to the policies of brew, the stars need to be above 50 at least, otherwise the project will not be accepted to be in the repo of brew cask. Once the stars are 50, I'll add thenewplayerfree to brew again.~~
-
-## ~~Uninstall~~
-~~brew cask uninstall thenewplayerfree~~
 
 # FAQS
 ## Why the OpenTV does not provide IPTV source file?
@@ -75,49 +66,15 @@ The OpenTV is merely a player for playing the content offered by your content pr
 # Troubleshooting
 
 ## Remove all configuration files, and navigation channel lists.
-1. cd ~/.config/thenewplayer
-2. rm -rf \*.txt upgrade objectstate playstate
+1. cd ~/.config/nextplayer
 3. Reboot the player.
 
 ## No sound in Linux
-Please go to preferences->audio, choose the audio output device to 'pulse' for example -- you might need related libraries as well. This might fix the problem.
+1. Please go to preferences->audio, choose the audio output device to 'pulse' for example -- you might need related libraries as well. This might fix the problem.
+2. If doesn't work, please forcely enable the sample rate and sample bit conversions.
 
 
 # Screenshots
 
-![screenshot0](screenshots/screenshot0.jpg)
-
 ![screenshot1](screenshots/screenshot1.jpg)
-
-![screenshot2](screenshots/screenshot2.jpg)
-
-![screenshot3](screenshots/screenshot3.jpg)
-
-![screenshot4](screenshots/screenshot4.jpg)
-
-![screenshot5](screenshots/screenshot5.jpg)
-
-![screenshot6](screenshots/screenshot6.jpg)
-
-![screenshot7](screenshots/screenshot7.jpg)
-
-![screenshot8](screenshots/screenshot8.jpg)
-
-![screenshot9](screenshots/screenshot9.jpg)
-
-
-![screenshot10](screenshots/screenshot10.jpg)
-
-![screenshot11](screenshots/screenshot11.jpg)
-
-![screenshot12](screenshots/screenshot12.jpg)
-
-![screenshot13](screenshots/screenshot13.jpg)
-
-![screenshot14](screenshots/screenshot14.jpg)
-
-![screenshot15](screenshots/screenshot15.jpg)
-
-![screenshot16](screenshots/screenshot16.jpg)
-
 
