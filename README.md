@@ -51,8 +51,8 @@ The second reason why this project is built is that receiving analog TV programs
 * Support 6 audio channels while mpv/VLC can not work correctly.
 
 # FAQS
-## Why the OpenTV does not provide IPTV source file?
-The OpenTV is merely a player for playing the content offered by your content providers. For this reason, based on copyright laws or codes, the OpenTV software would not provide any channel source files or contents. From your side, you also have the obligatory to obey the laws or codes in your areas or countries.
+## Why does not provide IPTV source file?
+The app is merely a player for playing the content offered by your content providers. For this reason, based on copyright laws or codes, the OpenTV software would not provide any channel source files or contents. From your side, you also have the obligatory to obey the laws or codes in your areas or countries.
 
 
 ## How to setup the IPTV channel list?
