@@ -1,9 +1,9 @@
-![Image text](logo.png)
+![Image text](screenshots/screenshot1.jpg)
 
 
 
 # Home Page
-[https://sudormroot.github.io/thenewplayer_builds/](https://sudormroot.github.io/thenewplayer_builds/)
+[https://sudormroot.github.io/nextplayer-project/](https://sudormroot.github.io/nextplayer-project/)
 
 
 # Supported platforms
@@ -12,13 +12,13 @@ macOS, FreeBSD, OpenBSD and Linux
 
 # Download
 ## macOS:
-[https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
+[https://github.com/sudormroot/nextplayer-project/releases](https://github.com/sudormroot/nextplayer-project/releases)
 
 ## Linux:
-[https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
+[https://github.com/sudormroot/nextplayer-project/releases](https://github.com/sudormroot/nextplayer-project/releases)
 
 ## FreeBSD:
-[https://github.com/sudormroot/thenewplayer_builds/releases](https://github.com/sudormroot/thenewplayer_builds/releases)
+[https://github.com/sudormroot/nextplayer-project/releases](https://github.com/sudormroot/nextplayer-project/releases)
 
 # Installation
 ## FreeBSD
