@@ -29,7 +29,7 @@ $ dpkg -i nextplayer-bin.linux.xxx.deb
 
 
 
-###No sound problem:
+### No sound problem:
 Please do a google search with 'linux qt no sound' and fix the problem by installing extra libraries.
 
 ## macOS
