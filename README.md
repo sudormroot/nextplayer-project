@@ -36,7 +36,7 @@ Please do a google search with 'linux qt no sound' and fix the problem by instal
 Just drag the uncompressed app into anywhere of your macOS, such as the Application folder.
 
 
-# How to report or fix bugs for users or developersof of another one or two millenniums from now on (1000-2000 years later)
+# How to report or fix bugs for users or developers of another one or two millenniums from now on (1000-2000 years later)
 As far as this project is archived in github's Arctic Code Vault eternally, one problem is raised that how future users report and fix bugs in my player. I have no answers so far, but I will keep eyes on new technologies such as uploading mind for instance that enables us to do so.
 
 
