@@ -1,6 +1,9 @@
 ![Image text](screenshots/screenshot1.jpg)
 
 
+# Current version
+v1.7.5
+
 
 # Home Page
 [https://sudormroot.github.io/nextplayer-project/](https://sudormroot.github.io/nextplayer-project/)
@@ -22,7 +25,7 @@ macOS, FreeBSD, OpenBSD and Linux
 
 # Installation
 ## FreeBSD
-$ sudo pkg install thenewplayerfree-bin.freebsd.xxx.txz
+$ sudo pkg install nextplayer-bin.freebsd.xxx.txz
 
 ## Linux 
 $ dpkg -i nextplayer-bin.linux.xxx.deb
