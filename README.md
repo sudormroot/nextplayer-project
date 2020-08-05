@@ -2,7 +2,7 @@
 
 
 # Current version
-v1.7.5
+v1.7.6
 
 
 # Home Page
@@ -71,7 +71,7 @@ The app is merely a player for playing the content offered by your content provi
 # Troubleshooting
 
 ## Remove all configuration files, and navigation channel lists.
-1. cd ~/.config/nextplayer
+1. rm -rf ~/.config/nextplayer
 3. Reboot the player.
 
 ## No sound in Linux
